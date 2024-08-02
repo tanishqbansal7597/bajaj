@@ -1,0 +1,8 @@
+{
+    "status": "success",
+    "user_id": "fullname_dob",
+    "college_email_id": "string",
+    "college_roll_number": "string",
+    "numbers": [1, 2, 3, ...],
+    "alphabets": ["a", "b", "c", ...]
+  }
